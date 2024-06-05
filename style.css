@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#roll-button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#roll-button:hover {
+  background-color: #3e8e41;
+}
+
+#add-money-button {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#add-money-button:hover {
+  background-color: #0069D9;
+}
+
+#chatbox {
+  margin-top: 20px;
+}
+
+#error {
+  color: red;
+}
